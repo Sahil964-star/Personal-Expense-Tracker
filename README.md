@@ -54,10 +54,10 @@ python main.py
 
 ## Screenshot
 
-![Program Output](screenshots/output1.png)
-![Program Output](screenshots/output2.png)
-![Program Output](screenshots/output3.png)
-![Program Output](screenshots/output4.png)
+![Program Output](screenshots/Output1.png)
+![Program Output](screenshots/Output2.png)
+![Program Output](screenshots/Output3.png)
+![Program Output](screenshots/Output4.png)
 
 
 
