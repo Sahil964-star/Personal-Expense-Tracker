@@ -46,7 +46,7 @@ Displays all expenses belonging to a selected category along with subtotal.
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/Sahil964-star/Personal-Expense-Tracker
 
 Run:
 
